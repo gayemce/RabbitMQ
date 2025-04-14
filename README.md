@@ -32,9 +32,9 @@ This project simulates a simple airline booking and ticket processing system usi
    ```sh
    docker-compose up -d
    ```
-RabbitMQ Management UI will be available at `http://localhost:15672`
-Username: `use`
-Password: `mypass`
+   - RabbitMQ Management UI will be available at `http://localhost:15672`
+   - Username: `user`
+   - Password: `mypass`
 
 2. **Run the API project (FormulaAirline.API) via your IDE or terminal:**
    ```sh
